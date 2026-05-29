@@ -972,7 +972,7 @@ export default function App() {
       }}>
         <div style={{maxWidth:1400, margin:"0 auto", display:"flex", alignItems:"center", justifyContent:"space-between"}}>
           <div style={{fontSize:22, fontWeight:800, fontFamily:"'Cormorant Garamond',serif", letterSpacing:"-0.02em", lineHeight:1}}>
-            vest<span style={{color:C.warm}}>iary</span>
+          <span style={{color:C.warm}}>Fitted</span>
           </div>
 
           {/* Nav — centered */}
