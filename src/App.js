@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 // ── Design tokens ─────────────────────────────────────────────────────────────
 const C = {
-  bg:          "#F7F5F2",
+  bg:          "#F7F5F2", 
   surface:     "#FFFFFF",
   card:        "#FFFFFF",
   border:      "#E8E4DF",
