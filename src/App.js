@@ -996,7 +996,11 @@ export default function App() {
         {tab === "explore" && <ExploreScreen mallIds={mallIds} savedIds={savedIds} closets={closets} onSaveClick={handleSaveClick}/>}
         {tab === "closets" && <ClosetsScreen closets={closets} setClosets={setClosets}/>}
         {tab === "profile" && <ProfileScreen mallIds={mallIds} setMallIds={setMallIds} customStores={customStores} setCustomStores={setCustomStores}/>}
-      </div>
+     <script 
+        type="text/javascript" 
+        src="https://s.skimresources.com/js/303998X179214.skimlinks.js"
+        async={true}
+      />
     </div>
   );
 }
